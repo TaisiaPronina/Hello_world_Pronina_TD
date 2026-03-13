@@ -1,0 +1,16 @@
+ls -lha
+
+total 24K
+drwx------ 2 tpshka tpshka 4.0K Mar 13 11:03 .
+drwxr-xr-x 3 root   root   4.0K Mar 13 11:02 ..
+-rw-r--r-- 1 tpshka tpshka   18 May  1  2024 .bash_logout
+-rw-r--r-- 1 tpshka tpshka  141 May  1  2024 .bash_profile
+-rw-r--r-- 1 tpshka tpshka  492 May  1  2024 .bashrc
+-rw-r--r-- 1 tpshka tpshka    9 Mar 13 11:07 task_3-4_1_2.txt
+total 24K
+drwx------ 2 tpshka tpshka 4.0K Mar 13 11:03 .
+drwxr-xr-x 3 root   root   4.0K Mar 13 11:02 ..
+-rw-r--r-- 1 tpshka tpshka   18 May  1  2024 .bash_logout
+-rw-r--r-- 1 tpshka tpshka  141 May  1  2024 .bash_profile
+-rw-r--r-- 1 tpshka tpshka  492 May  1  2024 .bashrc
+-rw-r--r-- 1 tpshka tpshka  346 Mar 13 11:08 task_3-4_1_2.txt
